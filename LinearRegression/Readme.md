@@ -3,7 +3,7 @@
 ### Supervised Learning
 #### Project:used car price prediction
 
-#Install
+## Install
 This project requires Python and the following Python libraries installed:
 
 * [Numpy:https://www.numpy.org]
