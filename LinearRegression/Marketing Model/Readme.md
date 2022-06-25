@@ -1,10 +1,10 @@
-#### Marketing-Model
+## Marketing-Model
 This is Linear Regression Model
 
-#### LinearRegression-Marketing-Model
+### LinearRegression-Marketing-Model
 Supervised Learning
 Project:Marketing-Model
-##### Install
+#### Install
 This project requires Python and the following Python libraries installed:
 
 [Numpy:https://www.numpy.org]
