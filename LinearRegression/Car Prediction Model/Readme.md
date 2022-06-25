@@ -19,7 +19,7 @@ Code
 
 Run
 
-* In a terminal or command window, navigate to the top-level project directory [NikitaPande13\LinearRegression\CarPricePrediction]((https://github.com/NikitaPande13/Machine_Learning-All-Model-In-One/edit/main/LinearRegression/Car%20Prediction%20Model))(that contains this README) and run one of the following commands:
+* In a terminal or command window, navigate to the top-level project directory [NikitaPande13\LinearRegression\CarPricePrediction](([https://github.com/NikitaPande13/Machine_Learning-All-Model-In-One/edit/main/LinearRegression/Car%20Prediction%20Model](https://github.com/NikitaPande13/Machine_Learning-All-Model-In-One/edit/main/LinearRegression/Car%20Prediction%20Model/Readme.md)))(that contains this README) and run one of the following commands:
 
 ![image](https://user-images.githubusercontent.com/106645403/173308447-24cd835d-c380-47dc-b82f-77649fc57483.png)
 
