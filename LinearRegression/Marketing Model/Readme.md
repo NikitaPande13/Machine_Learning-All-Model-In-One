@@ -1,13 +1,10 @@
-Machine_Learning-All-Model-In-One
-This Repository Contain All Machine Learning Models With Example Projects
-
-Marketing-Model
+####Marketing-Model
 This is Linear Regression Model
 
-LinearRegression-Marketing-Model
+####LinearRegression-Marketing-Model
 Supervised Learning
 Project:Marketing-Model
-Install
+#####Install
 This project requires Python and the following Python libraries installed:
 
 [Numpy:https://www.numpy.org]
@@ -32,7 +29,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 #Data The dataset used in this project is included asMLR on Advertising.csv. This dataset has the following attributes:
 
-TV	- continuous number of sales of TV
-radio	-continuous number of sales of radio
-newspaper	-continuous number of sales of newspaper
-sales -continuous number overall sale
+* TV	- continuous number of sales of TV
+* radio	-continuous number of sales of radio
+* newspaper	-continuous number of sales of newspaper
+* sales -continuous number overall sale
