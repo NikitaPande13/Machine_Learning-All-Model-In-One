@@ -30,13 +30,17 @@ Algorithm List :
 # Dependencies
 ## 1.Numpy
 Allows you to work with arrays and do mathametical operations
+
 ```import numpy as np```
 
 ## 2.Pandas
 Allows you to import a dataset and easily create vectors and matrices
+
 ```import pandas as pd```
 
 Importing a Dataset: 
 Allows you to get dataset into your model 
+
 ```dataset = pd.read_csv('Data.csv')```
+
 (Just change the name of csv file according to the name of dataset)
