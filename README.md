@@ -12,9 +12,10 @@ Here, list all libraries, packages and other dependencies that need to be instal
 For example, this is how you would list them:
 
 Transformers 4.8.0
-conda install -c conda-forge transformers
+
+ ```conda install -c conda-forge transformers```
 OpenCV 4.5.2
-conda install -c conda-forge opencv
+```conda install -c conda-forge opencv```
 
 #### Usage
 Use this space to show useful examples of how a project can be used. For course projects, include which file to execute and the format of any input variables.
