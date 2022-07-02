@@ -9,32 +9,34 @@ In this section you should provide instructions on how to use this repository to
 Here, list all libraries, packages and other dependencies that need to be installed to run your project. Include library versions and how they should be installed if a special requirement is needed. 
 
 
-For example, this is how you would list them:
+This git page provides a simple readme with some documentation and tips regarding machine learning in Python. The intended use of this page was to serve as a personal reference sheet when developing machine learning models using Python, but I have decided to share with whoever else might find these resources useful. Contained within the repository :
 
-Transformers 4.8.0
+Algorithm List :
 
- ```conda install -c conda-forge transformers```
-OpenCV 4.5.2
-```conda install -c conda-forge opencv```
+- Linear Regression
+- Logistics Regression
+- Decision Tree
+- Random Forest
+- Boosting
+- PCA
+- SVM
+- Naive Bayes
 
-#### Usage
-Use this space to show useful examples of how a project can be used. For course projects, include which file to execute and the format of any input variables.
+## Unsuperviesed Algorithms
+### Clustering
+- Hierarchical Clustering
+- K-means
 
-Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+# Dependencies
+## 1.Numpy
+Allows you to work with arrays and do mathametical operations
+```import numpy as np```
 
-For more examples, please refer to the Documentation
+## 2.Pandas
+Allows you to import a dataset and easily create vectors and matrices
+```import pandas as pd```
 
-#### Roadmap
-See the open issues for a list of proposed features (and known issues).
-
-#### Contributing
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-#### Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch  (git push origin feature/AmazingFeature)
-
-Open a Pull Request
+Importing a Dataset: 
+Allows you to get dataset into your model 
+```dataset = pd.read_csv('Data.csv')```
+(Just change the name of csv file according to the name of dataset)
